@@ -1,4 +1,3 @@
-# LiferaTestCrud
 
 ## 📄 Descrição
 Este projeto é uma aplicação web desenvolvida utilizando **Java**, **JPA** e **Spring Boot**. Trata-se de um sistema de gerenciamento de tarefas que permite aos usuários:  
